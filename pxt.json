@@ -13,5 +13,10 @@
         "test.ts"
     ],
     "public": false,
-    "additionalFilePaths": []
+    "preferredEditor": "tsprj",
+    "yotta": {
+        "config": {
+            "PXT_GC_CHECKS": 1
+        }
+    }
 }
