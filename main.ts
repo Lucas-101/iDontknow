@@ -11,5 +11,5 @@ function Thing() {
     light.showRing("red red red red red red red red red blue")
 }
 
-
+Thing()
 
